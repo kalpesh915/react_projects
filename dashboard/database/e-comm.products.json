@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "670a0e8c35490af56d3ca13f"
+  },
+  "name": "OnePlus Z10",
+  "price": "19500",
+  "category": "Mobile Phone",
+  "brand": "Samsung",
+  "userid": "kalpesh915@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a20dde7ce3c11c1e75049"
+  },
+  "name": "Fold",
+  "price": "19500",
+  "category": "Mobile Phone",
+  "brand": "Samsung",
+  "userid": "kalpesh915@gmail.com",
+  "__v": 0
+}]

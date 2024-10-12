@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6707413c3de442d16a3c37b5"
+  },
+  "fname": "kalpesh",
+  "lname": "chauhan",
+  "email": "kalpesh915@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670742f15a89be4aeeb08c08"
+  },
+  "fname": "kalpesh",
+  "lname": "chauhan",
+  "email": "kalpesh12@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707438713ecea7ca30e2dbe"
+  },
+  "fname": "vansh",
+  "lname": "chauhan",
+  "email": "vansh@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707476072acb21352419a4b"
+  },
+  "fname": "kalpesh",
+  "lname": "chauhan",
+  "email": "kalpesh122@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a1524c186a18e44708706"
+  },
+  "fname": "kalpesh",
+  "lname": "chauhan",
+  "email": "kalpeshjchauhan@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a15829373797f74d88a69"
+  },
+  "fname": "Kalpesh",
+  "lname": "chauhan",
+  "email": "kalpesh2@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a15f54c636df17db52908"
+  },
+  "fname": "KP",
+  "lname": "KP",
+  "email": "kalpesh9115@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a16724ae7975ac2d69b1e"
+  },
+  "fname": "KP",
+  "lname": "KP",
+  "email": "kalpesh925@gmail.com",
+  "password": "123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670a168c4ae7975ac2d69b22"
+  },
+  "fname": "poonam",
+  "lname": "chauhn",
+  "email": "poonam@gmail.com",
+  "password": "123",
+  "__v": 0
+}]
